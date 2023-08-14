@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @RainhaDil
-- 👀 I’m interested in Music, program Development 
-- 🌱 I’m currently on a University doing Computer Science
-- 📫 How to reach me: giardesore2020@gmail.com my email.
+# Sobre Mim
 
-<!---
-RainhaDil/RainhaDil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! 👋 Sou Giovanna, um entusiasta da tecnologia e apaixonado por aprender coisas novas. Adoro explorar o mundo da programação, da ciência de dados e da inteligência artificial. Vou te contar um pouco mais sobre mim:
+
+## Formação Acadêmica 🎓
+
+- Estou cursando Graduação em Ciencias da Computação na FMU
+
+## Habilidades Técnicas 🛠️
+
+- Linguagens de programação: JAVA (Intermediario), Phyton (Intermediario) , C++ (Avancado)
+
+## Interesses 🌟
+
+- Aprender línguas estrangeiras
+- Ter um aprendizado profundo em linguas de programação
+
+## Onde me Encontrar 🌐
+
+- [LinkedIn](www.linkedin.com/in/giovanna-ardesore-3a6b75236)
+- [GitHub]([https://github.com/seu-usuario](https://github.com/RainhaDil))
+- [Twitter](https://twitter.com/myolddreamscape)
+
+## Curiosidades ✨
+
+- Sou amante em musica e instrumentos musicais de todos os tipos;
+- Sou uma programadora em desenvolvimento
+
+Sinta-se à vontade para entrar em contato! Adoro conhecer pessoas novas e trocar ideias sobre tecnologia, ciência e muito mais.
