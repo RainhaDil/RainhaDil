@@ -18,7 +18,7 @@ Olá! 👋 Sou Giovanna, um entusiasta da tecnologia e apaixonado por aprender c
 ## Onde me Encontrar 🌐
 
 - [LinkedIn](www.linkedin.com/in/giovanna-ardesore-3a6b75236)
-- [GitHub]([https://github.com/seu-usuario](https://github.com/RainhaDil))
+- [GitHub](https://github.com/RainhaDil)
 - [Twitter](https://twitter.com/myolddreamscape)
 
 ## Curiosidades ✨
