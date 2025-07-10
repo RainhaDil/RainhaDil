@@ -1,29 +1,20 @@
-# Sobre Mim
+# Hi there 👋
 
-Olá! 👋 Sou Giovanna, um entusiasta da tecnologia e apaixonado por aprender coisas novas. Adoro explorar o mundo da programação, da ciência de dados e da inteligência artificial. Vou te contar um pouco mais sobre mim:
+I'm RainhaDil — a passionate hobbyist programmer and a professional company investigator. My journey in code started out of curiosity and has become an exciting side adventure! 
 
-## Formação Acadêmica 🎓
+## 🛠️ Skills & Technologies
+- **Python:** My go-to language for projects, experiments, and automation.
+- **Java:** Some experience, always open to learning more.
+- **Music:** I also play guitar and keys—creativity finds its way into both my code and my music.
 
-- Estou cursando Graduação em Ciencias da Computação na FMU
+## 🌱 Featured Projects
+*Coming soon!*
 
-## Habilidades Técnicas 🛠️
+## 🔗 Social Links
+I'll add these soon! (LinkedIn, Twitter, personal website, etc.)
 
-- Linguagens de programação: JAVA (Intermediario), Phyton (Intermediario) , C++ (Avancado)
+## 🎸 Fun Facts & Bio
+When I'm not investigating or coding, you’ll find me composing tunes or learning a new riff. I love blending analytical thinking with creativity—whether I’m debugging code or improvising on the keys. Always curious, always learning!
 
-## Interesses 🌟
-
-- Aprender línguas estrangeiras
-- Ter um aprendizado profundo em linguas de programação
-
-## Onde me Encontrar 🌐
-
-- [LinkedIn](www.linkedin.com/in/giovanna-ardesore-3a6b75236)
-- [GitHub](https://github.com/RainhaDil)
-- [Twitter](https://twitter.com/myolddreamscape)
-
-## Curiosidades ✨
-
-- Sou amante em musica e instrumentos musicais de todos os tipos;
-- Sou uma programadora em desenvolvimento
-
-Sinta-se à vontade para entrar em contato! Adoro conhecer pessoas novas e trocar ideias sobre tecnologia, ciência e muito mais.
+---
+Thanks for stopping by my profile!
